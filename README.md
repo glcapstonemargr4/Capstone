@@ -1,5 +1,3 @@
-# Capstone
-Capstone for Pneumonia Detection
 
 ****What is Pneumonia?
 Pneumonia
@@ -16,9 +14,9 @@ pneumonia on CXR is complicated because of a number of other conditions in the l
 overload (pulmonary edema), bleeding, volume loss (atelectasis or collapse), lung
 ****cancer, or post****
 -
-radiation or surgical changes. Outside of the lungs, fluid in the pleural space (pleural effusion) also 
+**radiation or surgical changes. Outside of the lungs, fluid in the pleural space (pleural effusion) also 
 appears as increased opacity on CXR. When available, comparison of CXRs of the patient taken at 
 different time points and correlation w
 ith clinical symptoms and history are helpful in making the 
 diagnosis.
-********
+**
