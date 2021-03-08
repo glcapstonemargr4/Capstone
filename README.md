@@ -20,3 +20,12 @@ different time points and correlation w
 ith clinical symptoms and history are helpful in making the 
 diagnosis.
 **
+
+Pneumonia Detection
+Now to detection Pneumonia we need to detect 
+Inflammation
+of the lungs. 
+In this project, you’re 
+challenged to build an
+algorithm to detect a visual signal for pneumonia in medical images. Specifically, 
+your algorithm needs to automatically locate lung opacities on chest radiographs.
