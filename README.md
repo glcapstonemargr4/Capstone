@@ -11,9 +11,8 @@ by highly trained specialists and confirmation through clinical history, vital s
 Pneumonia usually manifests
 as an area or areas of increased opacity on CXR. However, the diagnosis of 
 pneumonia on CXR is complicated because of a number of other conditions in the lungs such as fluid 
-overload (pulmonary edema), bleeding, volume loss (atelectasis or collapse), lung
- cancer, or post
--
+overload (pulmonary edema), bleeding, volume loss (atelectasis or collapse), lung cancer, or post
+
 radiation or surgical changes. Outside of the lungs, fluid in the pleural space (pleural effusion) also 
 appears as increased opacity on CXR. When available, comparison of CXRs of the patient taken at 
 different time points and correlation w
